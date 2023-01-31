@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616397309831",
+    "project_id": "electronics-portal",
+    "storage_bucket": "electronics-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616397309831:android:1602383fdf78c3736ab522",
+        "android_client_info": {
+          "package_name": "com.nexusinfinity.electronicsportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616397309831-bagsa5hvnnsmtnnm2ltnuj9696s3lmbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBeo7pGE_TnN97NnD1jC7q-rXgZ5JhTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616397309831-bagsa5hvnnsmtnnm2ltnuj9696s3lmbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

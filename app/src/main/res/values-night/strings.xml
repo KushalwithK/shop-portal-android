@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="administrator_login">Login</string>
+    <string name="admin_id">Admin ID</string>
+    <string name="admin_pass">Admin PASS</string>
+    <string name="authenticate_me">Authenticate Me</string>
+    <string name="welcome_to_the_portal">Welcome to the portal</string>
+    <string name="the_all_in_one_stock_management_and_billing_portal">The all in one stock management and billing portal.</string>
+    <string name="desc">The Portal was made for business purposes for selective organizations. Made with love by Nexus Infinity!</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of service</string>
+    <string name="regsiter">Register</string>
+    <string name="products">Products</string>
+    <string name="add_product">Add Product</string>
+    <string name="info">Info</string>
+    <string name="logout">Logout</string>
+    <string name="delete">Delete</string>
+</resources>
